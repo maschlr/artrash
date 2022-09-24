@@ -21,6 +21,8 @@ const UploadAndDisplayImage = (props) => {
       <input
         type="file"
         name="myImage"
+        capture="user" 
+        accept="image/*"
         onChange={props.handleUpload}
       />
     </div>
