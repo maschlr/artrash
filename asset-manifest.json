@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/artrash/static/css/main.f48cfe71.css",
+    "main.js": "/artrash/static/js/main.708a6d74.js",
+    "static/js/787.c362f7c0.chunk.js": "/artrash/static/js/787.c362f7c0.chunk.js",
+    "index.html": "/artrash/index.html",
+    "main.f48cfe71.css.map": "/artrash/static/css/main.f48cfe71.css.map",
+    "main.708a6d74.js.map": "/artrash/static/js/main.708a6d74.js.map",
+    "787.c362f7c0.chunk.js.map": "/artrash/static/js/787.c362f7c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f48cfe71.css",
+    "static/js/main.708a6d74.js"
+  ]
+}
